@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "824460666044",
+    "firebase_url": "https://onlinefirebase-4e33d-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-4e33d",
+    "storage_bucket": "onlinefirebase-4e33d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824460666044:android:62cc55313fb1561ae99cb9",
+        "android_client_info": {
+          "package_name": "com.example.onlineapp_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGgJ2DzndrlH-gVFGkybV0Wl5k1LpNWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
